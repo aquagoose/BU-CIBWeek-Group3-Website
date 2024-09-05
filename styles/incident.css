@@ -1,0 +1,12 @@
+#details-grid {
+    display: flex;
+}
+
+#details-column {
+    width: 25vw;
+}
+
+#logs-column {
+    width: 75vw;
+    margin-left: 20px;
+}

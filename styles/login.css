@@ -1,0 +1,33 @@
+#login-form, #insert-form {
+    margin: 0 auto;
+    width: 300px;
+}
+
+#form-content {
+    margin: 0 auto;
+    text-align: center;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 0;
+    height: 30px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    height: 200px;
+    resize: none;
+}
+
+label {
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+input[type=submit] {
+    width: 100px;
+    display: flex;
+}
